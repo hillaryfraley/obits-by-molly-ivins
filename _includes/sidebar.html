@@ -1,0 +1,18 @@
+
+<!--Create a sorted array of tags-->
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign sortedTags = site_tags | split:',' | sort %}
+  <aside>
+    <h3>Archive</h3>
+ <ul class="archives">
+ 				<li><a href="{{site.baseurl}}/tags/">All posts</a></li>
+                {% for tag in sortedTags %}
+                    <li><a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a></li>
+                {% endfor %}
+            </ul>
+    <h3>Connect with me</h3>
+    <ul class="social">
+    <li><a href="https://github.com/hillaryfraley" title="GitHub" class="github">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/hillaryfraley" title="LinkedIn" class="linked">LinkedIn</a></li>
+    </ul>
+    </aside>

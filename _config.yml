@@ -1,0 +1,16 @@
+# Site settings
+title: Obituaries by Molly Ivins
+description: "Links and citations for obituaries written by the late Molly Ivins."
+baseurl: "/obits-by-molly-ivins"
+url: "http://hillaryfraley.github.io/obits-by-molly-ivins"
+tagline: "A tribute to her tributes"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 4
+paginate_path: '/blog/page:num/'
+permalink: /blog/:title
