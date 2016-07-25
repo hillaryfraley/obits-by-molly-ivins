@@ -5,7 +5,7 @@ date: 2016-07-25
 tags: [journalists, online]
 ---
 
-"One of the best stories is about the time Decca was invited to become a distinguished professor at San Jose State University. She was deeply thrilled, but the position required her to take a loyalty oath. She refused to give the school her fingerprints, providing toe prints instead. A great and glorious uproar ensued, and, alas, it ended with her becoming, as she put it, "an extinguished professor.""
+"One of the best stories is about the time Decca was invited to become a distinguished professor at San Jose State University. She was deeply thrilled, but the position required her to take a loyalty oath. She refused to give the school her fingerprints, providing toe prints instead. A great and glorious uproar ensued, and, alas, it ended with her becoming, as she put it, 'an extinguished professor.'"
 
 #### Read Online
 Molly Ivins, “[Untitled](https://www.creators.com/read/molly-ivins/07/96/molly-ivins-july-25-1996-07-25-e7a5326f "Molly Ivins's obituary for Jessica Mitford"){:target="_blank"},” *Creators Syndicate*, July 25, 1996, accessed July 25, 2016, https://www.creators.com/read/molly-ivins/07/96/molly-ivins-july-25-1996-07-25-e7a5326f.
