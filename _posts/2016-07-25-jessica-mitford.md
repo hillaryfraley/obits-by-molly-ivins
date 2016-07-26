@@ -12,6 +12,8 @@ Molly Ivins, “[Untitled](https://www.creators.com/read/molly-ivins/07/96/molly
 Note: This version of the obituary differs substantially from those published in *You Got to Dance with Them What Brung You* and *Who Let the Dogs In? Incredible Political Animals I Have Known*.
 
 #### Also Published In
-Molly Ivins, "Queen of the Muckrakers," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 234-8.
-
 Molly Ivins, "Jessica Mitford," in *Who Let the Dogs In? Incredible Political Animals I Have Known* (New York: Random House, 2004), 275-8.
+
+Molly Ivins, "Queen of the Muckrakers," *The New York Times Book Review*, August 25, 1996.
+
+Molly Ivins, "Queen of the Muckrakers," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 234-8.

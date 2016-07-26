@@ -10,7 +10,6 @@ tags: [politicians, texans]
 Molly Ivins, "She Sounded Like God," *The New York Times Magazine* December 29, 1996.
 
 #### Also Published In
-Molly Ivins, *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 231-3.
-
 Molly Ivins, "Barbara Jordan," in *Who Let the Dogs In? Incredible Political Animals I Have Known* (New York: Random House, 2004), 299-301.
 
+Molly Ivins, "She Sounded Like God," *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 231-3.
