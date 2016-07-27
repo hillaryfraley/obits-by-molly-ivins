@@ -10,6 +10,6 @@ tags: [politicians]
 Molly Ivins, "Remembering Dick," *The Progressive* 58 (1994): 46.
 
 #### Also Published In
-Molly Ivins, "Remembering Dick," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 224-6.
-
 Molly Ivins, "Richard Nixon," in *Who Let the Dogs In? Incredible Political Animals I Have Known* (New York: Random House, 2004), 296-8.
+
+Molly Ivins, "Remembering Dick," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1999), 224-6.

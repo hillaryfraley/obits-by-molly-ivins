@@ -13,4 +13,4 @@ Molly Ivins, in "[A Long Shadow: Remembering the Life and Work of Cliff Olofson]
 #### Also Published In
 Molly Ivins, "The Person Who Kept the *Texas Observer* Running," *Fort Worth Star-Telegram*, December 19, 1995.
 
-Molly Ivins, "The Person Who Kept the *Texas Observer* Running," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 227-30.
+Molly Ivins, "The Person Who Kept the *Texas Observer* Running," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1999), 227-30.

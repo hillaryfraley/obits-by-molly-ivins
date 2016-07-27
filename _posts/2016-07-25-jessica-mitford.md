@@ -16,4 +16,4 @@ Molly Ivins, "Jessica Mitford," in *Who Let the Dogs In? Incredible Political An
 
 Molly Ivins, "Queen of the Muckrakers," *The New York Times Book Review*, August 25, 1996.
 
-Molly Ivins, "Queen of the Muckrakers," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 234-8.
+Molly Ivins, "Queen of the Muckrakers," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1999), 234-8.

@@ -14,5 +14,5 @@ Molly Ivins, “[Beauty Queen's Life: More Than A Pretty Face](http://articles.p
 
 Molly Ivins, "The Death of a Beauty Queen," *Fort Worth Star-Telegram*, December 12, 1993.
 
-Molly Ivins, "The Death of a Beauty Queen," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 221-3.
+Molly Ivins, "The Death of a Beauty Queen," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1999), 221-3.
 

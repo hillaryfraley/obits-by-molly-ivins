@@ -16,7 +16,7 @@ Molly Ivins, “[Untitled](https://www.creators.com/read/molly-ivins/01/96/molly
 
 Molly Ivins, "Ralph Yarborough," in *Who Let the Dogs In? Incredible Political Animals I Have Known* (New York: Random House, 2004), 302-4.
 
-Molly Ivins, "A Trumpet Calling to the Best of Us," *Fort Worth Star-Telegram*, January 30, 1996.
+Molly Ivins, "A Trumpet Calling to the Best in Us," *Fort Worth Star-Telegram*, January 30, 1996.
 
-Molly Ivins, "A Trumpet Calling to the Best of Us," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 239-41.
+Molly Ivins, "A Trumpet Calling to the Best in Us," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1999), 239-41.
 

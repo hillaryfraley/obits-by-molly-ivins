@@ -13,4 +13,4 @@ Molly Ivins, "[Kindness to Everyone](http://archives.texasobserver.org/issue/199
 #### Also Published In
 Molly Ivins, "The Good Mother Who Put a Shoe in the Icebox," *Fort Worth Star-Telegram* January 9, 1997.
 
-Molly Ivins, "The Good Mother Who Put a Shoe in the Icebox," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1998), 242-5.
+Molly Ivins, "The Good Mother Who Put a Shoe in the Icebox," in *You Got to Dance with Them What Brung You* (New York: Vintage Books, 1999), 242-5.
