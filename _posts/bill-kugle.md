@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bill Kugle"
-date:   2016-08-01
+date: 
 tags: [texans, politicians, lawyers, online]
 ---
 

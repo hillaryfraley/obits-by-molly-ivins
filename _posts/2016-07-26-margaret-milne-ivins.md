@@ -8,7 +8,7 @@ tags: [family, online]
 "When it came to the "memorials preferred" on the obit form, we put in her favorite causes, but if you truly wanted to memorialize my mother, you would eat a piece of fudge today, hug someone you love, and be blindingly pleasant to a total stranger."
 
 #### Read Online
-Molly Ivins, "[Kindness to Everyone](http://archives.texasobserver.org/issue/1997/01/31#page=18 "Molly Ivins's obituary in the Texas Observer for her mother, Margaret Milne Ivins")," *Texas Observer*, January 31, 1997, accessed July 26, 2016, http://archives.texasobserver.org/issue/1997/01/31#page=18.
+Molly Ivins, "[Kindness to Everyone](http://archives.texasobserver.org/issue/1997/01/31#page=18 "Molly Ivins's obituary in the Texas Observer for her mother, Margaret Milne Ivins"){:target="_blank"}," *Texas Observer*, January 31, 1997, accessed July 26, 2016, http://archives.texasobserver.org/issue/1997/01/31#page=18.
 
 #### Also Published In
 Molly Ivins, "The Good Mother Who Put a Shoe in the Icebox," *Fort Worth Star-Telegram* January 9, 1997.
