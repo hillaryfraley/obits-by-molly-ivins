@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Joe Espinoza"
-date:   2016-07-26
+title: "Joe Espinoza"
+date: 2016-07-26
 tags: [texans, journalists, online]
 ---
 

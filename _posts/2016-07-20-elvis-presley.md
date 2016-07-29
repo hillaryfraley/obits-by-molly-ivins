@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elvis Presley"
+title: "Elvis Presley"
 date: 2016-07-20
 tags: [celebrities, online]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dallas Times Herald"
-date:   2016-07-26
+title: "Dallas Times Herald"
+date: 2016-07-26
 tags: [newspapers, online]
 ---
 

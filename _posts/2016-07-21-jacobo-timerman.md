@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jacobo Timerman"
+title: "Jacobo Timerman"
 date: 2016-07-21
 tags: [journalists, online]
 ---

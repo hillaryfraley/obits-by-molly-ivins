@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sammilu Williamson Evans"
-date:   2016-07-21
+title: "Sammilu Williamson Evans"
+date: 2016-07-21
 tags: [texans, online]
 ---
 

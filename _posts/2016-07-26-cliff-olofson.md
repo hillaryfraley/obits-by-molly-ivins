@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cliff Olofson"
-date:   2016-07-26
+title: "Cliff Olofson"
+date: 2016-07-26
 tags: [journalists, altruists, online]
 ---
 

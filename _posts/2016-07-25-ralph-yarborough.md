@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ralph Yarborough"
+title: "Ralph Yarborough"
 date: 2016-07-25
 tags: [politicians, texans, online]
 ---

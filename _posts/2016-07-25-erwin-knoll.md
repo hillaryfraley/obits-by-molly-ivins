@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Erwin Knoll"
-date:   2016-07-25
+title: "Erwin Knoll"
+date: 2016-07-25
 tags: [journalists]
 ---
 

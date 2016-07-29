@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bill Kugle"
-date: 
+title: "Bill Kugle"
+date: 2016-07-29
 tags: [texans, politicians, lawyers, online]
 ---
 
@@ -11,4 +11,4 @@ tags: [texans, politicians, lawyers, online]
 Molly Ivins, "[On Why We Loved Bill Kugle](http://archives.texasobserver.org/issue/1993/12/24#page=10 "Molly Ivins's obituary in the Texas Observer for Bill Kugle")," *Texas Observer*, December 24, 1993, accessed July 26, 2016, http://archives.texasobserver.org/issue/1993/12/24#page=10.
 
 #### Also Published In
-Molly Ivins, "On Why We Loved Bill Kugle," in *Nothin' but Good Times Ahead* (New York: Random House, 1993), PAGES.
+Molly Ivins, "On Why We Loved Bill Kugle," in *Nothin' but Good Times Ahead* (New York: Random House, 1993), 339-43.

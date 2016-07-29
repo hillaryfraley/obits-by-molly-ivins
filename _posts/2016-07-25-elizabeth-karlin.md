@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Elizabeth Karlin"
-date:   2016-07-25
+title: "Elizabeth Karlin"
+date: 2016-07-25
 tags: [doctors]
 ---
 

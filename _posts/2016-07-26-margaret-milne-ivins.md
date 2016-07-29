@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Margaret Milne Ivins"
-date:   2016-07-26
+title: "Margaret Milne Ivins"
+date: 2016-07-26
 tags: [family, online]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Henry B. Gonzalez"
-date:   2016-07-26
+title: "Henry B. Gonzalez"
+date: 2016-07-26
 tags: [texans, politicians, online]
 ---
 

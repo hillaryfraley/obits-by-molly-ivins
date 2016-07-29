@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jessica Mitford"
+title: "Jessica Mitford"
 date: 2016-07-25
 tags: [journalists, online]
 ---

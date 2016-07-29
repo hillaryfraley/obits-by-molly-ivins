@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Richard Nixon"
-date:   2016-07-25
+title: "Richard Nixon"
+date: 2016-07-25
 tags: [politicians]
 ---
 

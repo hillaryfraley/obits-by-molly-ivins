@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Warren Burnett"
+title: "Warren Burnett"
 date: 2016-07-21
 tags: [texans, online]
 ---

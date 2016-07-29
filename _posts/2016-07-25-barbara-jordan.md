@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Barbara Jordan"
-date:   2016-07-25
+title: "Barbara Jordan"
+date: 2016-07-25
 tags: [politicians, texans]
 ---
 

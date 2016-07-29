@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ann Richards"
-date:   2016-07-19
+title: "Ann Richards"
+date: 2016-07-19
 tags: [texans, politicians, online]
 ---
 

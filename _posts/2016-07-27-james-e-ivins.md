@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "James E. Ivins"
-date:   2016-07-27
+title: "James E. Ivins"
+date: 2016-07-27
 tags: [family, online]
 ---
 
