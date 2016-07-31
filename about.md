@@ -11,9 +11,9 @@ I want to list a citation for every obituary that Molly Ivins wrote. If I'm miss
 {: style="text-align: left"}
 
 ![Molly Ivins laughing]({{site.baseurl}}/images/molly-ivins-laughing.jpg)
-Photo of Molly Ivins by [Alan Pogue](http://www.documentaryphotographs.com/ "Alan Pogue website")
+Photo of Molly Ivins by [Alan Pogue](http://www.documentaryphotographs.com/ "Alan Pogue website"){:target="_blank"}
 <br>
-[Molly Ivins, 1944-2007](https://www.theguardian.com/news/2007/feb/02/guardianobituaries.pressandpublishing "Obituary for Molly Ivins") 
+[Molly Ivins, 1944-2007](https://www.theguardian.com/news/2007/feb/02/guardianobituaries.pressandpublishing "Obituary for Molly Ivins"){:target="_blank"} 
 {: style="text-align: center"}
 
 
