@@ -5,7 +5,7 @@ date: 2016-07-29
 tags: [texans, politicians, lawyers, online]
 ---
 
-"He fought, sequentially, the Japanese in the Pacific during. World War II, the mob in Galveston, the pinheads in the Texas Legislature, racism in East Texas and sourpusses at all times and on all fronts. He loved running rivers in Texas, riding motorcycles in Mexico, freedom, justice, his kids, several wives and women in general, country music, beer, food, camping, and people."
+"He fought, sequentially, the Japanese in the Pacific during World War II, the mob in Galveston, the pinheads in the Texas Legislature, racism in East Texas and sourpusses at all times and on all fronts. He loved running rivers in Texas, riding motorcycles in Mexico, freedom, justice, his kids, several wives and women in general, country music, beer, food, camping, and people."
 
 #### Read Online
 Molly Ivins, "[On Why We Loved Kugle](http://archives.texasobserver.org/issue/1993/12/24#page=10 "Molly Ivins's obituary in the Texas Observer for Bill Kugle")," *Texas Observer*, December 24, 1993, accessed July 26, 2016, http://archives.texasobserver.org/issue/1993/12/24#page=10.
