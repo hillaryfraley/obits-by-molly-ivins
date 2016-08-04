@@ -2,7 +2,7 @@
 layout: post
 title: "John Henry Faulk"
 date: 2016-08-30
-tags: [texans, storyteller, online]
+tags: [texans, storytellers, online]
 ---
 
 "Mr. Faulk, it seems to me, not only understood and forgave human frailty, he rather relished it. Especially his own."
