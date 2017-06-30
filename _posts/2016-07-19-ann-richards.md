@@ -2,7 +2,7 @@
 layout: post
 title: "Ann Richards"
 date: 2016-07-19
-tags: [texans, politicians, online]
+tags: [texans, politicians, online, women]
 ---
 
 "She knew how to deal with teenage egos: Instead of pointing out to a kid who was pouring charcoal lighter on a live fire that he was idiot, Ann said, “Honey, if you keep doing that, the fire is going to climb right back up to that can in your hand and explode and give you horrible injuries, and it will just ruin my entire weekend.”"

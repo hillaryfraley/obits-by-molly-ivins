@@ -2,7 +2,7 @@
 layout: post
 title: "Margaret Milne Ivins"
 date: 2016-07-26
-tags: [family, online]
+tags: [family, online, women]
 ---
 
 "When it came to the "memorials preferred" on the obit form, we put in her favorite causes, but if you truly wanted to memorialize my mother, you would eat a piece of fudge today, hug someone you love, and be blindingly pleasant to a total stranger."

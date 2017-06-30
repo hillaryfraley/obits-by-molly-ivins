@@ -2,7 +2,7 @@
 layout: post
 title: "Jessica Mitford"
 date: 2016-07-25
-tags: [journalists, online]
+tags: [journalists, online, women]
 ---
 
 "One of the best stories is about the time Decca was invited to become a distinguished professor at San Jose State University. She was deeply thrilled, but the position required her to take a loyalty oath. She refused to give the school her fingerprints, providing toe prints instead. A great and glorious uproar ensued, and, alas, it ended with her becoming, as she put it, "an extinguished professor.""

@@ -2,7 +2,7 @@
 layout: post
 title: "Sammilu Williamson Evans"
 date: 2016-07-21
-tags: [texans, online]
+tags: [texans, online, women]
 ---
 
 "Samm Evans was either ridiculously pretty or actually beautiful, I'm not sure which, but I wish that I, or anyone else, had been able to convince her that her looks were the least part of her being a knockout."

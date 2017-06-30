@@ -2,7 +2,7 @@
 layout: post
 title: "Elizabeth Karlin"
 date: 2016-07-25
-tags: [doctors]
+tags: [doctors, women]
 ---
 
 "Dr. Liz Karlin, that lovely soul, dead of a brain tumor at fifty-four. Happened in a matter of a couple months. "Oh, you know Liz, she hated doctors," said our friend Donna Shalala, who is now Secretary of HHS."

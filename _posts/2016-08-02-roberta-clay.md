@@ -2,7 +2,7 @@
 layout: post
 title: "Roberta Clay"
 date: 2016-08-02
-tags: [texans, online]
+tags: [texans, online, women]
 ---
 
 "J.F. met Ms. Clay once too, at a liberal gathering in Arlington just a few months ago. For a very frail old lady whose top speed was 25 m.p.h., Ms. Clay got around a lot. J.F. says meeting her made the whole trip to Arlington worthwhile. She was that kind of lady. Just meeting her was enough to make a trip to Arlington worthwhile."

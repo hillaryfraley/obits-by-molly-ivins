@@ -2,7 +2,7 @@
 layout: post
 title: "Barbara Jordan"
 date: 2016-07-25
-tags: [politicians, texans, online]
+tags: [politicians, texans, online, women]
 ---
 
 "Her personal dignity was so massive, even those who admired her hesitated to approach her. No one will ever know how lonely she was at the beginning."
