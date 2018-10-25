@@ -43,3 +43,7 @@ Citations and links (if available) for other versions of the obituaries. Some of
 ```
 If you don't have information for any of the main content sections (like **Also Published In**), just omit those sections. The only required content is the front matter, a quote from the obit, and a citation for the obit.
 
+## Template attribution
+
+The site template is based on a [Jekyll](https://jekyllrb.com/) template developed by [James Williamson](https://github.com/jameswillweb) for his [Lynda.com](https://www.lynda.com/) course [Jekyll for Web Designers](https://www.lynda.com/Jekyll-tutorials/Jekyll-Web-Designers/383124-2.html).
+
