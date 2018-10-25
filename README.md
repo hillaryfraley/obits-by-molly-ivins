@@ -15,4 +15,30 @@ Include a clear log message for your commit---one line is enough.
 
 `$ git commit -m "Brief summary of your commit, maybe including the name of the obituary subject and year published"`
 
-Thanks again!
+## Post format explanation
+
+Each post follows this format:
+
+```markdown
+---
+layout: post
+title: "First-name Last-name"
+date: 20YY-MM-DD
+tags: [tag1, tag2, tag3, ...]
+---
+
+"Favorite quote from the obituary."
+
+Molly Ivins, "Obituary Title," *Publication Name* Month DD, YYYY.
+
+#### Read Online
+Citation and link for the obituary published online (if available).
+
+#### Also Published In
+Other sources where people can find the obituary. Mollly Ivins' books sometimes include obituaries she wrote.
+
+#### Other Versions
+Citations and links (if available) for other versions of the obituaries. Some of them were syndicated or republished.
+
+```
+
