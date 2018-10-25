@@ -13,6 +13,6 @@ If you want to submit a PR with a new post, please:
 
 Include a clear log message for your commit---one line is enough.
 
-`$ git commit -m "Brief summary of your commit, starting with feat: or fix:"`
+`$ git commit -m "Brief summary of your commit, maybe including the name of the obituary subject and year published"`
 
 Thanks again!
