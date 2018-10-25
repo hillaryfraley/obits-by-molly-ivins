@@ -41,4 +41,5 @@ Other sources where people can find the obituary. Mollly Ivins' books sometimes 
 Citations and links (if available) for other versions of the obituaries. Some of them were syndicated or republished.
 
 ```
+If you don't have information for any of the main content sections (like **Also Published In**), just omit those sections. The only required content is the front matter, a quote from the obit, and a citation for the obit.
 
