@@ -12,6 +12,7 @@ If you want to submit a PR with a new post, please:
 2. Write it in GitHub-flavored Markdown.
 
 Include a clear log message for your commit---one line is enough.
+
 `$ git commit -m "Brief summary of your commit, starting with feat: or fix:"`
 
 Thanks again!
