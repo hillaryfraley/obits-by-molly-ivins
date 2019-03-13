@@ -1,7 +1,7 @@
 # Site settings
 title: Obituaries by Molly Ivins
 description: "Links and citations for obituaries written by the late Molly Ivins."
-baseurl: "ivinsobits.com"
+baseurl: "/obits-by-molly-ivins"
 url: "http://ivinsobits.com"
 tagline: "A tribute to her tributes"
 
