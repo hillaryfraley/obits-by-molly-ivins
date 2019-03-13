@@ -19,4 +19,4 @@ Photo of Molly Ivins by [Alan Pogue](http://www.documentaryphotographs.com/ "Ala
 
 ### About Me
 
-Hi! I'm Hillary Fraley. I'm a technical writer and editor. You can find me at [GitHub](https://github.com/hillaryfraley "GitHub"), [LinkedIn](https://www.linkedin.com/in/hillaryfraley "LinkedIn"), and [SETCorrect](http://www.setcorrect.com "SETCorrect"). If you see me at a conference or meetup, please say hello!
+Hi! I'm Hillary Fraley. I'm a technical writer and editor. You can find me at [GitHub](https://github.com/hillaryfraley "GitHub"), [LinkedIn](https://www.linkedin.com/in/hillaryfraley "LinkedIn"), and [SETCorrect](https://www.setcorrect.com "SETCorrect"). If you see me at a conference or meetup, please say hello!
